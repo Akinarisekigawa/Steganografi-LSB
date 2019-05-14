@@ -1,3 +1,3 @@
 # Steganografi LSB
 
-# Penyisipan dan Ekstraksi LSB
+Penyisipan dan Ekstraksi LSB
